@@ -280,10 +280,10 @@ classDiagram
 
 ## 📞 Suporte
 
-**Desenvolvedor:** Igor Oliveira de Paula
-**E-mail:** igoroliveira7896@gmail.com
-**LinkedIn:** [Clique Aqui](https://www.linkedin.com/in/igorpaula7/)
-**GitHub:** igorpaula7
+**Desenvolvedor:** Igor Oliveira de Paula  
+**E-mail:** igoroliveira7896@gmail.com  
+**LinkedIn:** [Clique Aqui](https://www.linkedin.com/in/igorpaula7/)  
+**GitHub:** igorpaula7  
 
 Para problemas, dúvidas ou sugestões, abra uma **Issue** neste repositório.
 
