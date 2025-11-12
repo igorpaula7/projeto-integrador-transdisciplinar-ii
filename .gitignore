@@ -1,0 +1,18 @@
+# Arquivo de configuração da minha máquina
+
+wordpress/wp-config.php
+
+# Logs
+
+*.log
+error_log
+debug.log
+
+# Cache
+
+wordpress/wp-content/cache/
+wordpress/wp-content/advanced-cache.php
+
+# Backups
+
+wordpress/wp-content/ai1wm-backups/
